@@ -60,3 +60,12 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+
+### REPOSITORY SPECIFIC IGNORES
+*~
+*.log
+*.db
+*.sqlite3
+*.bak
+*#
